@@ -1,0 +1,26 @@
+name: Check portfolio draft
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate source records
+        run: python -B scripts/qa.py
+      - name: Check structural rules
+        run: python -B -m unittest discover -s tests -v
+      - name: Build browser review data
+        run: python -B scripts/build_site.py
+      - name: Check static references and exclusions
+        run: python -B scripts/check_site.py

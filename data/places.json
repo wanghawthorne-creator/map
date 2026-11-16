@@ -1,0 +1,30 @@
+[
+  {
+    "place_id": "LTG-P001",
+    "record_kind": "source_reported_real_place",
+    "display_name": "老太沟书苑",
+    "name_status": "source_reported",
+    "aliases_verified": [],
+    "category_provisional": "community_reading_and_cultural_space",
+    "reported_address": "大理海东镇老太箐村",
+    "verified_address": null,
+    "admin_village_verified": null,
+    "longitude": null,
+    "latitude": null,
+    "crs": null,
+    "coordinate_source_ids": [],
+    "source_ids": ["E-PUB-001"],
+    "claim_ids": ["CL-001", "CL-002", "CL-003", "CL-004"],
+    "source_published_on": "2026-08-14",
+    "source_checked_on": "2026-11-16",
+    "observed_on": null,
+    "last_verified_on": null,
+    "current_operation_status": "unable_to_verify",
+    "verification_status": "historically_reported_location_unverified",
+    "location_status": "missing_evidence",
+    "spatial_precision": "unknown",
+    "map_release_status": "pending_review",
+    "privacy_review_status": "pending_review",
+    "notes": "Source-reported name and address only. No confirmed alias, current operation, coordinates or formal institution category. Reading a source does not constitute a site visit."
+  }
+]

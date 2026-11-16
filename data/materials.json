@@ -1,0 +1,59 @@
+[
+  {
+    "id": "M01",
+    "source_ids": [
+      "E-IMG-001"
+    ],
+    "title_en": "Terrain basemap",
+    "title_zh": "地形底图",
+    "label_en": "Observed label: 老太箐",
+    "label_zh": "可见地名：老太箐",
+    "source_status": "original_read_rights_pending",
+    "limits_en": "A regional context input. Provider, CRS and date are unverified; the label does not locate the reading-space entrance.",
+    "limits_zh": "用于区域语境；平台图层、参考系与日期待核，地名标签不是书苑入口。",
+    "width": 1879,
+    "height": 933,
+    "sha256": "df4db2b3c556e553a213fc166e61f6c4c9485b8442c6a5d7a2c0254eee77d87b",
+    "created_on": null,
+    "received_on": "2026-11-16",
+    "public_asset_included": false
+  },
+  {
+    "id": "M02",
+    "source_ids": [
+      "E-IMG-002"
+    ],
+    "title_en": "Imagery basemap",
+    "title_zh": "影像底图",
+    "label_en": "Observed label: 老太箐",
+    "label_zh": "可见地名：老太箐",
+    "source_status": "original_read_rights_pending",
+    "limits_en": "Image content and locality labels can be compared. No acquisition date or verified reading-space pin is established.",
+    "limits_zh": "可比对图像与地名；影像拍摄日及书苑落点未知，不能代表今天的现场。",
+    "width": 2003,
+    "height": 1013,
+    "sha256": "d60ebfadac04232591fd4793d9cb87789775b09da9a8ad47b71c25dbfdecb051",
+    "created_on": null,
+    "received_on": "2026-11-16",
+    "public_asset_included": false
+  },
+  {
+    "id": "M03",
+    "source_ids": [
+      "E-IMG-003"
+    ],
+    "title_en": "Hand-drawn spatial account",
+    "title_zh": "手绘空间认知图",
+    "label_en": "Observed title: 老太箐地图",
+    "label_zh": "可见题名：老太箐地图",
+    "source_status": "original_read_author_and_rights_pending",
+    "limits_en": "A spatial account, without verified scale, orientation or date. Private/home labels and authorship need review before release.",
+    "limits_zh": "认知材料；比例、方位和日期未核实，私人地点标签、作者与授权需要审查。",
+    "width": 6240,
+    "height": 4160,
+    "sha256": "ed04c4fa94dba2b0c031520abced68b72a17d165c3d47077f0670f7f2bbc04d9",
+    "created_on": null,
+    "received_on": "2026-11-16",
+    "public_asset_included": false
+  }
+]

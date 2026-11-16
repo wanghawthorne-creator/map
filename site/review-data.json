@@ -1,0 +1,457 @@
+{
+  "places": [
+    {
+      "place_id": "LTG-P001",
+      "record_kind": "source_reported_real_place",
+      "display_name": "老太沟书苑",
+      "name_status": "source_reported",
+      "aliases_verified": [],
+      "category_provisional": "community_reading_and_cultural_space",
+      "reported_address": "大理海东镇老太箐村",
+      "verified_address": null,
+      "admin_village_verified": null,
+      "longitude": null,
+      "latitude": null,
+      "crs": null,
+      "coordinate_source_ids": [],
+      "source_ids": [
+        "E-PUB-001"
+      ],
+      "claim_ids": [
+        "CL-001",
+        "CL-002",
+        "CL-003",
+        "CL-004"
+      ],
+      "source_published_on": "2026-08-14",
+      "source_checked_on": "2026-11-16",
+      "observed_on": null,
+      "last_verified_on": null,
+      "current_operation_status": "unable_to_verify",
+      "verification_status": "historically_reported_location_unverified",
+      "location_status": "missing_evidence",
+      "spatial_precision": "unknown",
+      "map_release_status": "pending_review",
+      "privacy_review_status": "pending_review",
+      "notes": "Source-reported name and address only. No confirmed alias, current operation, coordinates or formal institution category. Reading a source does not constitute a site visit."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "E-PUB-001",
+      "kind": "public_reporting",
+      "title": "学而思“给孩子的一节AI课”走进云南老太沟书苑——当乡村书院邂逅AI时代",
+      "publisher": "开屏新闻（页面标注来源：云新闻客户端）",
+      "url": "https://www.ccwb.cn/content/202608/14/c907601.html",
+      "published_on": "2026-08-14",
+      "checked_on": "2026-11-16",
+      "access_status": "body_read",
+      "locator": "标题；正文开头区位段；阅读及地方文化活动描述段",
+      "summary": "Reports a community reading/cultural space named 老太沟书苑 in 大理海东镇老太箐村. Describes reading and local cultural activities at the reporting time.",
+      "limitations": "One activity report; not a geodetic survey, address register or independent current-operation check. No coordinate or definitive relationship between the two place names.",
+      "reuse": "Link and original short paraphrase only; full article and images excluded. No open reuse licence established."
+    },
+    {
+      "source_id": "E-LOC-001",
+      "kind": "historical_chat_record",
+      "title": "绘制老太沟书苑地图（已读取相关对话）",
+      "url": null,
+      "published_on": null,
+      "checked_on": "2026-11-16",
+      "access_status": "chat_read_original_exports_missing",
+      "locator": "组合图制作回复与其后优化回复；两张恢复附件",
+      "summary": "Historical replies describe a schematic inset and explicitly say the exact reading-space pin was unverified and persistent saving failed. Two input screenshots were recovered and viewed, not the three requested PDF/SVG originals.",
+      "limitations": "AI replies prove only a historical drafting process. They do not prove spatial facts, licensing or authorship. Screenshot filenames carry 2026-09-28 but do not independently establish imagery capture dates.",
+      "reuse": "Metadata only in this package; screenshots and historical chat text not republished."
+    },
+    {
+      "source_id": "E-LOC-002",
+      "kind": "archived_published_hand_drawn_map",
+      "title": "公众号归档中的“老太箐地图”手绘图",
+      "url": "https://mp.weixin.qq.com/s/kHRFB3k29WN-SnCA-qvdEw",
+      "published_on": "2026-10-07",
+      "checked_on": "2026-11-16",
+      "access_status": "local_archived_image_and_metadata_read_not_live_rechecked",
+      "locator": "既有素材ID LTG-AS-2026-0037；图注段",
+      "summary": "Recovered local image visibly labels 老太箐地图, 马头山 and 无名山; contains drawn roads, buildings and water-like shapes.",
+      "limitations": "Author, creation date, whether made by a child, reuse authority, orientation and scale unverified. Not established as the source of the missing schematic exports.",
+      "reuse": "Research-only historical manifest; image excluded pending rights and de-identification review."
+    },
+    {
+      "source_id": "E-IMG-001",
+      "kind": "user_supplied_map_screenshot",
+      "title": "用户本轮提供的地形底图",
+      "url": null,
+      "published_on": null,
+      "checked_on": "2026-11-16",
+      "access_status": "original_file_read",
+      "locator": "整体图面及老太箐、马头山等地名标签",
+      "summary": "Terrain-style screenshot labels 老太箐 and surrounding geographic features. User identifies it as a basemap input.",
+      "limitations": "Full page/layer provider, CRS, scale provenance, screenshot creation and terrain-data dates unverified. No verified reading-space pin.",
+      "reuse": "Original excluded from GitHub; loopback-only local review or browser-local selection pending provider licence review."
+    },
+    {
+      "source_id": "E-IMG-002",
+      "kind": "user_supplied_imagery_screenshot",
+      "title": "用户本轮提供的影像底图",
+      "url": null,
+      "published_on": null,
+      "checked_on": "2026-11-16",
+      "access_status": "original_file_read",
+      "locator": "整体影像及老太箐地名标签",
+      "summary": "Imagery-style screenshot labels 老太箐 and surrounding features. User identifies it as a basemap input.",
+      "limitations": "Imagery acquisition date, full provider attribution, CRS and reuse terms unknown. A locality label is not a verified public entrance.",
+      "reuse": "Original excluded from GitHub pending layer and imagery rights review."
+    },
+    {
+      "source_id": "E-IMG-003",
+      "kind": "user_supplied_hand_drawn_map",
+      "title": "用户本轮提供的手绘地图原图",
+      "url": null,
+      "published_on": null,
+      "checked_on": "2026-11-16",
+      "access_status": "original_file_read",
+      "locator": "题名、马头山/无名山标签及绘画图形；不转录私人地点标签",
+      "summary": "High-resolution photographed hand-drawn map labels 老太箐地图, 马头山 and 无名山, and depicts roads, buildings and a blue area.",
+      "limitations": "Author, creation date, orientation, scale, depicted time and publication permission unknown. Blurred building-name text is not a verified alias; blue colour does not establish current water.",
+      "reuse": "Original includes possible private/home labels; excluded from GitHub pending authorship, permission and de-identification review."
+    }
+  ],
+  "cases": [
+    {
+      "origin": "Designed query on source-backed study records; not captured map-platform output or an official test.",
+      "scope": "Historical source support and evidence sufficiency; no current navigable pin verified.",
+      "reviewed_on": "2026-11-16",
+      "review_status": "pending_researcher_review",
+      "user_location": null,
+      "viewport": null,
+      "id": "C01",
+      "title_en": "A matching name is not a navigable pin",
+      "title_zh": "名称相符不等于点位可用",
+      "query": "老太沟书苑",
+      "intent_en": "Identify a named reading space in the stated Dali context.",
+      "intent_zh": "在给定的大理语境中寻找指定名称的书苑。",
+      "summary_en": "The August report supports the named entity and broad function. Full address, entrance and current operation remain unverified.",
+      "summary_zh": "8月报道支持名称及宽泛功能；完整地址、入口和当前运营仍无法验证。",
+      "relevance": "R3",
+      "attributes": {
+        "name": "S",
+        "address": "U",
+        "category": "S",
+        "pin": "U",
+        "current": "U"
+      },
+      "source_ids": [
+        "E-PUB-001"
+      ],
+      "case_status": "source_backed_draft",
+      "candidate": "LTG-P001 — source-reported 老太沟书苑",
+      "limitations_en": "R3 applies only to historical named-entity fit, not to a visit today. One public report is not independent cross-validation.",
+      "limitations_zh": "R3仅限历史实体匹配，不代表今天可到访；单一报道不是独立交叉核验。",
+      "candidate_en": "LTG-P001 — source-reported 老太沟书苑",
+      "candidate_zh": "LTG-P001：报道所称的老太沟书苑。",
+      "origin_en": "Designed query on source-backed study records; not captured map-platform output or an official test.",
+      "origin_zh": "自拟查询，对照有来源的研究记录；不是抓取的平台返回结果或官方考试题。",
+      "scope_en": "Historical source support and evidence sufficiency; no current navigable pin verified.",
+      "scope_zh": "仅判断历史来源支持与证据充分性，未确认当前可导航点位。"
+    },
+    {
+      "origin": "Designed query on source-backed study records; not captured map-platform output or an official test.",
+      "scope": "Historical source support and evidence sufficiency; no current navigable pin verified.",
+      "reviewed_on": "2026-11-16",
+      "review_status": "pending_researcher_review",
+      "user_location": null,
+      "viewport": null,
+      "id": "C02",
+      "title_en": "A locality name is not a confirmed alias",
+      "title_zh": "区位名称不自动成为别名",
+      "query": "老太箐书苑",
+      "intent_en": "Find the reading space using a possible locality-based name.",
+      "intent_zh": "尝试使用带地方名称的写法寻找书苑。",
+      "summary_en": "The report uses 老太沟书苑, while the images label 老太箐. These observations do not establish that 老太箐书苑 is an alias for the same entity.",
+      "summary_zh": "报道使用老太沟书苑，图中标老太箐；不足以确认老太箐书苑是同一实体别名。",
+      "relevance": "U",
+      "attributes": {
+        "name": "U",
+        "address": "U",
+        "category": "S",
+        "pin": "U",
+        "current": "U"
+      },
+      "source_ids": [
+        "E-PUB-001",
+        "E-IMG-001",
+        "E-IMG-002",
+        "E-IMG-003"
+      ],
+      "case_status": "evidence_boundary_exercise",
+      "candidate": "LTG-P001, considered for a designed alternate-name query",
+      "limitations_en": "The query is designed, not an observed spelling error. Do not merge locality names or add a verified alias without identity/range evidence.",
+      "limitations_zh": "查询是自拟的，不是观察到的平台拼写错误；缺少对象与范围证据时不合并地名。",
+      "candidate_en": "LTG-P001, considered for a designed alternate-name query",
+      "candidate_zh": "LTG-P001：作为自拟别名查询的待判断候选。",
+      "origin_en": "Designed query on source-backed study records; not captured map-platform output or an official test.",
+      "origin_zh": "自拟查询，对照有来源的研究记录；不是抓取的平台返回结果或官方考试题。",
+      "scope_en": "Historical source support and evidence sufficiency; no current navigable pin verified.",
+      "scope_zh": "仅判断历史来源支持与证据充分性，未确认当前可导航点位。"
+    },
+    {
+      "origin": "Designed query on source-backed study records; not captured map-platform output or an official test.",
+      "scope": "Historical source support and evidence sufficiency; no current navigable pin verified.",
+      "reviewed_on": "2026-11-16",
+      "review_status": "pending_researcher_review",
+      "user_location": null,
+      "viewport": null,
+      "id": "C03",
+      "title_en": "Function versus formal institution category",
+      "title_zh": "实际功能与正式机构类别",
+      "query": "大理海东公益阅读空间",
+      "intent_en": "Find a non-commercial community place for reading and cultural activity.",
+      "intent_zh": "寻找海东区域用于阅读及文化活动的公益空间。",
+      "summary_en": "The report supports a broad community reading/cultural function at its historical time. It does not establish an officially registered library or school.",
+      "summary_zh": "报道支持历史时点的阅读及文化功能，不足以确认正式图书馆、学校或登记机构类别。",
+      "relevance": "R3",
+      "attributes": {
+        "name": "S",
+        "address": "U",
+        "category": "S",
+        "pin": "U",
+        "current": "U"
+      },
+      "source_ids": [
+        "E-PUB-001"
+      ],
+      "case_status": "source_backed_reframing",
+      "candidate": "LTG-P001 — provisional community_reading_and_cultural_space",
+      "limitations_en": "Uses the same source and record as C01, so it is not independent corroboration or a new real platform error. Present-day accessibility is unknown.",
+      "limitations_zh": "与C01共用来源和记录，不是新增独立验证或真实平台类别错误；现时可进入性未知。",
+      "candidate_en": "LTG-P001 — provisional community_reading_and_cultural_space",
+      "candidate_zh": "LTG-P001：暂定社区阅读与文化活动空间。",
+      "origin_en": "Designed query on source-backed study records; not captured map-platform output or an official test.",
+      "origin_zh": "自拟查询，对照有来源的研究记录；不是抓取的平台返回结果或官方考试题。",
+      "scope_en": "Historical source support and evidence sufficiency; no current navigable pin verified.",
+      "scope_zh": "仅判断历史来源支持与证据充分性，未确认当前可导航点位。"
+    },
+    {
+      "origin": "Designed query on source-backed study records; not captured map-platform output or an official test.",
+      "scope": "Historical source support and evidence sufficiency; no current navigable pin verified.",
+      "reviewed_on": "2026-11-16",
+      "review_status": "pending_researcher_review",
+      "user_location": null,
+      "viewport": null,
+      "id": "C04",
+      "title_en": "Locality label versus public entrance",
+      "title_zh": "村落标签与公共入口",
+      "query": "老太沟书苑在哪里",
+      "intent_en": "Locate the specific public entrance rather than a broad locality.",
+      "intent_zh": "找到书苑的具体公共入口，而非宽泛区域。",
+      "summary_en": "The screenshot label 老太箐 provides a locality reference only. No pin, address or control point establishes the reading-space entrance.",
+      "summary_zh": "截图中的老太箐仅提供地名线索，没有点位、地址或控制点能确定书苑入口。",
+      "relevance": "U",
+      "attributes": {
+        "name": "U",
+        "address": "U",
+        "category": "NA",
+        "pin": "U",
+        "current": "U"
+      },
+      "source_ids": [
+        "E-PUB-001",
+        "E-IMG-001",
+        "E-IMG-002"
+      ],
+      "case_status": "evidence_boundary_exercise",
+      "candidate": "The observed 老太箐 label as a proposed spatial reference, not a captured POI result",
+      "limitations_en": "No actual map result pin or trusted reference pin was supplied. Do not report a measured displacement or use the label centre as coordinates.",
+      "limitations_zh": "没有真实平台返回点及可信参考点，不能报告偏移距离或使用标签中心作坐标。",
+      "candidate_en": "The observed 老太箐 label as a proposed spatial reference, not a captured POI result",
+      "candidate_zh": "截图中的“老太箐”标签：仅作为拟议的空间参照，不是平台返回的书苑POI。",
+      "origin_en": "Designed query on source-backed study records; not captured map-platform output or an official test.",
+      "origin_zh": "自拟查询，对照有来源的研究记录；不是抓取的平台返回结果或官方考试题。",
+      "scope_en": "Historical source support and evidence sufficiency; no current navigable pin verified.",
+      "scope_zh": "仅判断历史来源支持与证据充分性，未确认当前可导航点位。"
+    },
+    {
+      "origin": "Designed query on source-backed study records; not captured map-platform output or an official test.",
+      "scope": "Historical source support and evidence sufficiency; no current navigable pin verified.",
+      "reviewed_on": "2026-11-16",
+      "review_status": "pending_researcher_review",
+      "user_location": null,
+      "viewport": null,
+      "id": "C05",
+      "title_en": "A blue sketch cannot answer current water status",
+      "title_zh": "蓝色手绘图形不能证明当前水况",
+      "query": "老太箐水库现在有水吗",
+      "intent_en": "Determine present-day water conditions at the named reservoir.",
+      "intent_zh": "了解所指水库现在是否有水。",
+      "summary_en": "The undated hand-drawn material depicts a blue area. It cannot establish water conditions on the review date.",
+      "summary_zh": "日期未知的手绘图包含蓝色区域，不能证明核查当天水体状态。",
+      "relevance": "U",
+      "attributes": {
+        "name": "U",
+        "address": "NA",
+        "category": "U",
+        "pin": "U",
+        "current": "U"
+      },
+      "source_ids": [
+        "E-IMG-003"
+      ],
+      "case_status": "pending_current_evidence",
+      "candidate": "An undated blue area in M03, considered only as a depiction to inspect",
+      "limitations_en": "Need a dated present-condition observation and identified waterbody. Colour is not measurement; no hydrological cause, drying year or present condition is inferred.",
+      "limitations_zh": "仍需带日期现状观察并确认水体对象；颜色不是测量，不推断水文原因、干涸年份或当前有水。",
+      "candidate_en": "An undated blue area in M03, considered only as a depiction to inspect",
+      "candidate_zh": "M03中日期未知的蓝色区域：仅作为待检查的图像表达。",
+      "origin_en": "Designed query on source-backed study records; not captured map-platform output or an official test.",
+      "origin_zh": "自拟查询，对照有来源的研究记录；不是抓取的平台返回结果或官方考试题。",
+      "scope_en": "Historical source support and evidence sufficiency; no current navigable pin verified.",
+      "scope_zh": "仅判断历史来源支持与证据充分性，未确认当前可导航点位。"
+    }
+  ],
+  "materials": [
+    {
+      "id": "M01",
+      "source_ids": [
+        "E-IMG-001"
+      ],
+      "title_en": "Terrain basemap",
+      "title_zh": "地形底图",
+      "label_en": "Observed label: 老太箐",
+      "label_zh": "可见地名：老太箐",
+      "source_status": "original_read_rights_pending",
+      "limits_en": "A regional context input. Provider, CRS and date are unverified; the label does not locate the reading-space entrance.",
+      "limits_zh": "用于区域语境；平台图层、参考系与日期待核，地名标签不是书苑入口。",
+      "width": 1879,
+      "height": 933,
+      "sha256": "df4db2b3c556e553a213fc166e61f6c4c9485b8442c6a5d7a2c0254eee77d87b",
+      "created_on": null,
+      "received_on": "2026-11-16",
+      "public_asset_included": false
+    },
+    {
+      "id": "M02",
+      "source_ids": [
+        "E-IMG-002"
+      ],
+      "title_en": "Imagery basemap",
+      "title_zh": "影像底图",
+      "label_en": "Observed label: 老太箐",
+      "label_zh": "可见地名：老太箐",
+      "source_status": "original_read_rights_pending",
+      "limits_en": "Image content and locality labels can be compared. No acquisition date or verified reading-space pin is established.",
+      "limits_zh": "可比对图像与地名；影像拍摄日及书苑落点未知，不能代表今天的现场。",
+      "width": 2003,
+      "height": 1013,
+      "sha256": "d60ebfadac04232591fd4793d9cb87789775b09da9a8ad47b71c25dbfdecb051",
+      "created_on": null,
+      "received_on": "2026-11-16",
+      "public_asset_included": false
+    },
+    {
+      "id": "M03",
+      "source_ids": [
+        "E-IMG-003"
+      ],
+      "title_en": "Hand-drawn spatial account",
+      "title_zh": "手绘空间认知图",
+      "label_en": "Observed title: 老太箐地图",
+      "label_zh": "可见题名：老太箐地图",
+      "source_status": "original_read_author_and_rights_pending",
+      "limits_en": "A spatial account, without verified scale, orientation or date. Private/home labels and authorship need review before release.",
+      "limits_zh": "认知材料；比例、方位和日期未核实，私人地点标签、作者与授权需要审查。",
+      "width": 6240,
+      "height": 4160,
+      "sha256": "ed04c4fa94dba2b0c031520abced68b72a17d165c3d47077f0670f7f2bbc04d9",
+      "created_on": null,
+      "received_on": "2026-11-16",
+      "public_asset_included": false
+    }
+  ],
+  "issues": [
+    {
+      "issue_id": "DQ-001",
+      "kind": "real_evidence_gap",
+      "place_ids": [
+        "LTG-P001"
+      ],
+      "topic": "missing_coordinates",
+      "status": "open",
+      "severity": "high_for_navigation",
+      "evidence_ids": [
+        "E-PUB-001"
+      ],
+      "finding": "No coordinates or verified public entrance evidence in the inspected place source.",
+      "action": "Keep both coordinates and CRS null; no marker or offset measurement.",
+      "opened_on": "2026-11-16"
+    },
+    {
+      "issue_id": "DQ-002",
+      "kind": "real_evidence_gap",
+      "place_ids": [
+        "LTG-P001"
+      ],
+      "topic": "name_relation",
+      "status": "open",
+      "severity": "high_for_entity_resolution",
+      "evidence_ids": [
+        "E-PUB-001",
+        "E-LOC-002"
+      ],
+      "finding": "Co-occurrence of 老太沟书苑 and 老太箐 is not proof that locality names are equivalent.",
+      "action": "Do not merge names or populate verified aliases; request entity/range evidence.",
+      "opened_on": "2026-11-16"
+    },
+    {
+      "issue_id": "DQ-003",
+      "kind": "real_evidence_gap",
+      "place_ids": [
+        "LTG-P001"
+      ],
+      "topic": "temporal_validity",
+      "status": "open",
+      "severity": "high_for_current_visit",
+      "evidence_ids": [
+        "E-PUB-001"
+      ],
+      "finding": "August reporting does not establish current existence or operation in November.",
+      "action": "Current operation remains unable_to_verify; source read date is not last_verified_on.",
+      "opened_on": "2026-11-16"
+    },
+    {
+      "issue_id": "DQ-004",
+      "kind": "real_evidence_gap",
+      "place_ids": [
+        "LTG-P001"
+      ],
+      "topic": "category_and_address",
+      "status": "open",
+      "severity": "medium",
+      "evidence_ids": [
+        "E-PUB-001"
+      ],
+      "finding": "Functional description and reported locality lack formal category or full address verification.",
+      "action": "Keep category provisional and verified_address/admin_village null; do not classify as a formal school/library.",
+      "opened_on": "2026-11-16"
+    },
+    {
+      "issue_id": "DQ-005",
+      "kind": "real_material_limitation",
+      "place_ids": [],
+      "topic": "map_crs_and_rights",
+      "status": "open",
+      "severity": "high_for_map_release",
+      "evidence_ids": [
+        "E-LOC-001",
+        "E-LOC-002"
+      ],
+      "finding": "Recovered screenshots lack complete layer provenance/CRS; hand-drawn map authorship/reuse permission is unresolved.",
+      "action": "Exclude source images from release; verify providers, author, date and de-identification first.",
+      "opened_on": "2026-11-16"
+    }
+  ],
+  "release": {
+    "status": "pending_review",
+    "geojson_features": 0
+  }
+}

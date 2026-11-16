@@ -1,0 +1,25 @@
+{
+  "scope": "Saved draft only; structural validity is not geographic accuracy or release permission.",
+  "counts": {
+    "places": 1,
+    "sources": 6,
+    "claims": 4,
+    "issues": 5
+  },
+  "errors": [],
+  "limitations": [
+    "LTG-P001: coordinates unavailable; no point may be inferred",
+    "LTG-P001: current operation unknown; historical reporting is not current verification"
+  ],
+  "map_eligible_ids": [],
+  "open_real_issues": [
+    "DQ-001",
+    "DQ-002",
+    "DQ-003",
+    "DQ-004",
+    "DQ-005"
+  ],
+  "checked_at": "2026-11-16T20:10:11+08:00",
+  "timezone": "Asia/Shanghai",
+  "publication_approved_by_program": false
+}

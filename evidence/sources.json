@@ -1,0 +1,81 @@
+[
+  {
+    "source_id": "E-PUB-001",
+    "kind": "public_reporting",
+    "title": "学而思“给孩子的一节AI课”走进云南老太沟书苑——当乡村书院邂逅AI时代",
+    "publisher": "开屏新闻（页面标注来源：云新闻客户端）",
+    "url": "https://www.ccwb.cn/content/202608/14/c907601.html",
+    "published_on": "2026-08-14",
+    "checked_on": "2026-11-16",
+    "access_status": "body_read",
+    "locator": "标题；正文开头区位段；阅读及地方文化活动描述段",
+    "summary": "Reports a community reading/cultural space named 老太沟书苑 in 大理海东镇老太箐村. Describes reading and local cultural activities at the reporting time.",
+    "limitations": "One activity report; not a geodetic survey, address register or independent current-operation check. No coordinate or definitive relationship between the two place names.",
+    "reuse": "Link and original short paraphrase only; full article and images excluded. No open reuse licence established."
+  },
+  {
+    "source_id": "E-LOC-001",
+    "kind": "historical_chat_record",
+    "title": "绘制老太沟书苑地图（已读取相关对话）",
+    "url": null,
+    "published_on": null,
+    "checked_on": "2026-11-16",
+    "access_status": "chat_read_original_exports_missing",
+    "locator": "组合图制作回复与其后优化回复；两张恢复附件",
+    "summary": "Historical replies describe a schematic inset and explicitly say the exact reading-space pin was unverified and persistent saving failed. Two input screenshots were recovered and viewed, not the three requested PDF/SVG originals.",
+    "limitations": "AI replies prove only a historical drafting process. They do not prove spatial facts, licensing or authorship. Screenshot filenames carry 2026-09-28 but do not independently establish imagery capture dates.",
+    "reuse": "Metadata only in this package; screenshots and historical chat text not republished."
+  },
+  {
+    "source_id": "E-LOC-002",
+    "kind": "archived_published_hand_drawn_map",
+    "title": "公众号归档中的“老太箐地图”手绘图",
+    "url": "https://mp.weixin.qq.com/s/kHRFB3k29WN-SnCA-qvdEw",
+    "published_on": "2026-10-07",
+    "checked_on": "2026-11-16",
+    "access_status": "local_archived_image_and_metadata_read_not_live_rechecked",
+    "locator": "既有素材ID LTG-AS-2026-0037；图注段",
+    "summary": "Recovered local image visibly labels 老太箐地图, 马头山 and 无名山; contains drawn roads, buildings and water-like shapes.",
+    "limitations": "Author, creation date, whether made by a child, reuse authority, orientation and scale unverified. Not established as the source of the missing schematic exports.",
+    "reuse": "Research-only historical manifest; image excluded pending rights and de-identification review."
+  },
+  {
+    "source_id": "E-IMG-001",
+    "kind": "user_supplied_map_screenshot",
+    "title": "用户本轮提供的地形底图",
+    "url": null,
+    "published_on": null,
+    "checked_on": "2026-11-16",
+    "access_status": "original_file_read",
+    "locator": "整体图面及老太箐、马头山等地名标签",
+    "summary": "Terrain-style screenshot labels 老太箐 and surrounding geographic features. User identifies it as a basemap input.",
+    "limitations": "Full page/layer provider, CRS, scale provenance, screenshot creation and terrain-data dates unverified. No verified reading-space pin.",
+    "reuse": "Original excluded from GitHub; loopback-only local review or browser-local selection pending provider licence review."
+  },
+  {
+    "source_id": "E-IMG-002",
+    "kind": "user_supplied_imagery_screenshot",
+    "title": "用户本轮提供的影像底图",
+    "url": null,
+    "published_on": null,
+    "checked_on": "2026-11-16",
+    "access_status": "original_file_read",
+    "locator": "整体影像及老太箐地名标签",
+    "summary": "Imagery-style screenshot labels 老太箐 and surrounding features. User identifies it as a basemap input.",
+    "limitations": "Imagery acquisition date, full provider attribution, CRS and reuse terms unknown. A locality label is not a verified public entrance.",
+    "reuse": "Original excluded from GitHub pending layer and imagery rights review."
+  },
+  {
+    "source_id": "E-IMG-003",
+    "kind": "user_supplied_hand_drawn_map",
+    "title": "用户本轮提供的手绘地图原图",
+    "url": null,
+    "published_on": null,
+    "checked_on": "2026-11-16",
+    "access_status": "original_file_read",
+    "locator": "题名、马头山/无名山标签及绘画图形；不转录私人地点标签",
+    "summary": "High-resolution photographed hand-drawn map labels 老太箐地图, 马头山 and 无名山, and depicts roads, buildings and a blue area.",
+    "limitations": "Author, creation date, orientation, scale, depicted time and publication permission unknown. Blurred building-name text is not a verified alias; blue colour does not establish current water.",
+    "reuse": "Original includes possible private/home labels; excluded from GitHub pending authorship, permission and de-identification review."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {"claim_id":"CL-001","place_id":"LTG-P001","field":"display_name","judgment":"source_supported","scope":"Name used by E-PUB-001 at the reported historical time; not a verified official name.","source_ids":["E-PUB-001"],"checked_on":"2026-11-16"},
+  {"claim_id":"CL-002","place_id":"LTG-P001","field":"reported_address","judgment":"source_supported","scope":"Article reports 大理海东镇老太箐村. Current administrative village, full address and boundaries unverified.","source_ids":["E-PUB-001"],"checked_on":"2026-11-16"},
+  {"claim_id":"CL-003","place_id":"LTG-P001","field":"category_provisional","judgment":"interpretation_from_reporting","scope":"Broad functional classification based on reported reading and local cultural activities. No platform taxonomy or formal library/school status verified.","source_ids":["E-PUB-001"],"checked_on":"2026-11-16"},
+  {"claim_id":"CL-004","place_id":"LTG-P001","field":"current_operation_status","judgment":"unable_to_verify","scope":"Historical reporting is insufficient to establish operation as of the review date. This is an evidence gap, not evidence of closure.","source_ids":["E-PUB-001"],"checked_on":"2026-11-16"}
+]
